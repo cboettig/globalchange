@@ -592,6 +592,8 @@ Pause, recap the velocity of science issue
 - Matt Jones
 - Marc Mangel
 
+- slides: [io.carlboettiger.info/globalchange](http://cboettig.github.com/globalchange)
+
 ----
 
 
