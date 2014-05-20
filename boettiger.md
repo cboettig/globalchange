@@ -9,7 +9,7 @@ transition: none   # default/cube/page/concave/zoom/linear/fade/none
 
 # Global Change
 
-<img src="../../images/dimacs/global-change.jpg" width="600">
+<img src="images/dimacs/global-change.jpg" width="600">
 
 <small> Overpeck+ (2011) doi:[10.1126/science.1197869](http://doi.org/10.1126/science.1197869) </small>
 
@@ -21,7 +21,7 @@ Uncertainty in outcomes
 
 # Fishery Collapse?
 
-<img src="../../images/dimacs/worm2006.png", width="700">
+<img src="images/dimacs/worm2006.png", width="700">
 
 <small> Worm+ (2006) doi:[10.1126/science.1132294](http://doi.org/10.1126/science.1132294)</small>
 
@@ -32,7 +32,7 @@ Uncertainty in outcomes
 
 # Tipping points?
 
-<img src="../../images/berkeley2014/barnosky.png", width="700">
+<img src="images/berkeley2014/barnosky.png", width="700">
 
 <small> Barnoksy+ (2012) doi:[10.1038/nature11018](http://doi.org/10.1038/nature11018)</small>
 
@@ -42,16 +42,16 @@ Uncertainty in outcomes
 
 # Me
 
-<img src="../../images/csgf2012/carl.jpg" width="400"><img src="../../images/csgf2012/icthy.jpg" width="400">
+<img src="images/csgf2012/carl.jpg" width="400"><img src="images/csgf2012/icthy.jpg" width="400">
 
 # Early warning signs?
 
-<img src="../../images/shifts/warning_signs.jpg" width="700">
+<img src="images/shifts/warning_signs.jpg" width="700">
 
 
 # Ecological management under uncertainty:
 
-<img src="../../images/dimacs/tuna_cc0.png" height="325" style="border:none;"> <img src="../../images/dimacs/fishing_cc0.png" height="325" style="border:none;">
+<img src="images/dimacs/tuna_cc0.png" height="325" style="border:none;"> <img src="images/dimacs/fishing_cc0.png" height="325" style="border:none;">
 
 <small> credit: NOAA </small>
 
@@ -61,7 +61,7 @@ Uncertainty in outcomes
 
 # Decision Theory
 
-![](../../images/esa2012/outcomes_numbers.png)
+![](images/esa2012/outcomes_numbers.png)
 
 
 
@@ -83,7 +83,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 # Remote sensors
 
-<img src="../../images/berkeley2014/landsat2.jpg" width="700">
+<img src="images/berkeley2014/landsat2.jpg" width="700">
 
 <small>credit: NASA</small>
 
@@ -91,7 +91,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 # micro sensors
 
-<img src="../../images/berkeley2014/gps-zebra.jpg" width="700">
+<img src="images/berkeley2014/gps-zebra.jpg" width="700">
 
 <small>credit: NSF </small>
 
@@ -100,7 +100,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 ## NEON
 
-<img src="../../images/asn2014/neon.png" width="700">
+<img src="images/asn2014/neon.png" width="700">
 
 <small> credit: Hopkin (2006) doi:[10.1038/444420a](http://doi.org/10.1038/444420a) </small>
 
@@ -108,13 +108,13 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 ## OOI
 
-<img src="../../images/asn2014/ooi.png" width="900">
+<img src="images/asn2014/ooi.png" width="900">
 
 <small> credit: Witze (2013) doi:[10.1038/501480a](http://doi.org/10.1038/501480a) </small>
 
 # Computer simulations
 
-<img src="../../images/shifts/carver.jpg" width="600">
+<img src="images/shifts/carver.jpg" width="600">
 
 <small> credit: NERSC </small>
 
@@ -126,7 +126,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 # Field-based study
 
-![](../../images/berkeley2014/icecore.jpg)
+![](images/berkeley2014/icecore.jpg)
 
 <small>credit: Scambos & Bauer, [NSIDC](http://nsidc.org/cryosphere/quickfacts/icesheets.html)</small>
 
@@ -135,7 +135,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 # Growth of climate data by type
 
-![](../../images/dimacs/growth-climate-data.png)
+![](images/dimacs/growth-climate-data.png)
 
 <small> Overpeck+ (2011) doi:[10.1126/science.1197869](http://doi.org/10.1126/science.1197869) </small>
 
@@ -174,7 +174,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 # Engineering bottlenecks
 
-<img src="../../images/dimacs/bottleneck.jpg" width="700">
+<img src="images/dimacs/bottleneck.jpg" width="700">
 
 <small> Baraniuk (2011) doi:[10.1126/science.1197448](http://doi.org/10.1126/science.1197448) </small>
 
@@ -182,7 +182,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 # Science bottlenecks
 
-<img src="../../images/dimacs/science-bottleneck.png">
+<img src="images/dimacs/science-bottleneck.png">
 
 <small>adapted from Reichman+ (2011) doi:[10.1126/science.1197962](http://doi.org/10.1126/science.1197962)</small>
 
@@ -225,7 +225,7 @@ Research that _scales_
 
 # data visualization
 
-![Something is wrong with this picture](../../images/dimacs/measurement-error.jpg)
+![Something is wrong with this picture](images/dimacs/measurement-error.jpg)
 
 <small> Fox & Hendler (2011) doi:[10.1126/science.1197654](http://doi.org/10.1126/science.1197654) </small>
 
@@ -244,7 +244,7 @@ Research that _scales_
 
 # Factory Farm Data...
 
-![](../../images/Bertrand/factory-farm.jpg)
+![](images/Bertrand/factory-farm.jpg)
 
 <small>credit: Arthus-Bertrand</small>
 
@@ -253,7 +253,7 @@ Research that _scales_
 # ... Organic, hand-crafted variety
 
 
-![](../../images/Bertrand/organic-farm.png)
+![](images/Bertrand/organic-farm.png)
 
 <small>credit: Arthus-Bertrand</small>
 
@@ -262,7 +262,7 @@ Research that _scales_
 
 # Vertically integrated data repositories
 
-<img src="../../images/dimacs/tetris.png">
+<img src="images/dimacs/tetris.png">
 
 
 -----
@@ -271,7 +271,7 @@ Research that _scales_
 
 building tools, building community
 
-<img src="../../images/dimacs/ropensci-community.jpg">
+<img src="images/dimacs/ropensci-community.jpg">
 
 
 
@@ -296,7 +296,7 @@ ggplot(country.dat, aes(x = year, y = data, group = locator)) +
 
 IPCC records and model projections at your fingertips
 
-![](../../images/dimacs/rWBclimate.png)
+![](images/dimacs/rWBclimate.png)
 
 
 ----
@@ -321,7 +321,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 # UN FAO Fisheries data (Example)
 
-![](../../images/dimacs/ropenfisheries.png)
+![](images/dimacs/ropenfisheries.png)
 
 ----
 
@@ -337,7 +337,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 # Limitations to vertical integration
 
-![](../../images/dimacs/tetris-lose.png)
+![](images/dimacs/tetris-lose.png)
 
 ---
 
@@ -347,7 +347,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 # Metadata Standards
 
-![](../../images/berkeley2014/eml.png)
+![](images/berkeley2014/eml.png)
 
 <small>Jones+ (2006) doi:[10.1146/annurev.ecolsys.37.091305.110031](http://doi.org/10.1146/annurev.ecolsys.37.091305.110031)</small>
 
@@ -402,26 +402,26 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 ## How a new student sees a paper
 
-<img src="../../images/dimacs/grad-student.jpg" width="800">
+<img src="images/dimacs/grad-student.jpg" width="800">
 
 ---
 
 ## How a leading professor sees it
 
-<img src="../../images/dimacs/professor.jpg" width="800">
+<img src="images/dimacs/professor.jpg" width="800">
 
 ----
 
 ## How a computer sees it
 
-<img src="../../images/dimacs/computer.jpg" width="800">
+<img src="images/dimacs/computer.jpg" width="800">
 
 
 ----
 
 ## Metaknowledge
 
-<img src="../../images/dimacs/metaknowledge.jpg">
+<img src="images/dimacs/metaknowledge.jpg">
 
 
 <small>Evans+ doi:[10.1126/science.1201765](http://doi.org/10.1126/science.1201765)</small>
@@ -431,7 +431,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 # Formal semantics
 
-![](../../images/berkeley2014/semantics.png)
+![](images/berkeley2014/semantics.png)
 
 <small>Mitchner (2012) doi:[10.1016/j.tree.2011.11.016](http://doi.org/10.1016/j.tree.2011.11.016)</small>
 
@@ -465,7 +465,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 # Speed of algorithms
 
-<img src="../../images/dimacs/trading-times.png"> <img src="../../images/dimacs/flashboys.jpg" height="300">
+<img src="images/dimacs/trading-times.png"> <img src="images/dimacs/flashboys.jpg" height="300">
 
 <small>credit: The Economist</small>
 
@@ -483,7 +483,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 # Example: Synthetic analysis of biodiversity loss
 
-<img src="../../images/dimacs/diversity-fig1.png" width="700">
+<img src="images/dimacs/diversity-fig1.png" width="700">
 
 Sythesizes over 140 data sets.
 
@@ -491,7 +491,7 @@ Sythesizes over 140 data sets.
 
 # Finds no evidence for systematic loss
 
-<img src="../../images/dimacs/diversity-fig2.png" width="700">
+<img src="images/dimacs/diversity-fig2.png" width="700">
 
 How easy would it be to update this to reflect new data?
 
@@ -500,7 +500,7 @@ How easy would it be to update this to reflect new data?
 
 # From bottlenecks to workflows
 
-<img src="../../images/dimacs/science-bottleneck.png">
+<img src="images/dimacs/science-bottleneck.png">
 
 <small>adapted from Reichman+ (2011) doi:[10.1126/science.1197962](http://doi.org/10.1126/science.1197962)</small>
 
@@ -509,7 +509,7 @@ How easy would it be to update this to reflect new data?
 
 # From bottlenecks to workflows
 
-<img src="../../images/berkeley2014/data-workflow.png">
+<img src="images/berkeley2014/data-workflow.png">
 
 <small>Reichman+ (2011) doi:[10.1126/science.1197962](http://doi.org/10.1126/science.1197962)</small>
 
@@ -517,7 +517,7 @@ How easy would it be to update this to reflect new data?
 
 # Example workflows: Dynamic documents
 
-<img src="../../images/dimacs/spectrum.png">
+<img src="images/dimacs/spectrum.png">
 
 <small>Peng (2011) doi:[10.1126/science.1213847](http://doi.org/10.1126/science.1213847)</small>
 
@@ -525,7 +525,7 @@ How easy would it be to update this to reflect new data?
 
 # IPython
 
-<img src="../../images/dimacs/ipython.png">
+<img src="images/dimacs/ipython.png">
 
 <small>Mascarelli (2014) doi:[10.1038/nj7493-523a](http://doi.org/10.1038/nj7493-523a)</small>
 
@@ -534,13 +534,13 @@ How easy would it be to update this to reflect new data?
 
 # Reproducible research
 
-![](../../images/economist/cover.jpg)
+![](images/economist/cover.jpg)
 
 <small>credit: The Economist</small>
 
 ---
 
-![](../../images/economist/trouble.jpg)
+![](images/economist/trouble.jpg)
 
 <small>credit: The Economist</small>
 
@@ -563,7 +563,7 @@ Pause, recap the velocity of science issue
 
 # Velocity of data vs velocity of policy?
 
-<img src="../../images/dimacs/capitol.jpg" width="700">
+<img src="images/dimacs/capitol.jpg" width="700">
 <small> credit: Wikipedia </small>
 <!--
 
@@ -594,26 +594,10 @@ Pause, recap the velocity of science issue
 
 ----
 
-![](../../images/dimacs/survey.png)
 
 
+![](images/dimacs/survey.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-
--->
 
 
 <!--
@@ -628,47 +612,6 @@ Pause, recap the velocity of science issue
 
 ---
 
-![](../../images/human-capacity.jpg)
-
-<small>credit: Cameron Neylon</small>
-
 -->
 
 
-<!--
-
-# Reproducible Research?
-
-----
-
-
-![](../../images/economist/cover.jpg)
-
-<small>credit: The Economist</small>
-
-----
-
-
-![](../../images/economist/replicate.jpg)
-
-<small>credit: The Economist</small>
-
----
-
-
-![](../../images/economist/trouble.jpg)
-
-<small>credit: The Economist</small>
-
----
-
-
-![](../../images/economist/rug.jpg)
-
-<small>credit: The Economist</small>
-
-----
-
-# Not a problem of integrity, but of velocity
-
--->
