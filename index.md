@@ -393,6 +393,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 - <h2> Easy to <strong>generate</strong> metadata </h2>
 - <h2> Easy to <strong>enhance</strong> & improve data with further annotation </h2>
 
+
 ---
 
 # Compare this to the standard publication...
@@ -484,7 +485,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 <img src="images/dimacs/diversity-fig1.png" width="700">
 
-Sythesizes over 140 data sets.
+Synthesizes over 140 data sets.
 
 ---
 
@@ -543,39 +544,24 @@ How easy would it be to update this to reflect new data?
 
 <small>credit: The Economist</small>
 
-
-
 ---
-
-<!--
-
-Pause, recap the velocity of science issue
-
--->
-
-
-
 
 # Sharing code?
 
-- Mozilla Science code review
 
 # Velocity of data vs velocity of policy?
 
 <img src="images/dimacs/capitol.jpg" width="700">
+
 <small> credit: Wikipedia </small>
-<!--
-
-- even slower timescale than scientific process.
-- Even if we can scale the velocity of science to the velocity of the data, what about the policies?  Very different kind of interface between science and policy. (Early warning system vs publications... public trust in 'engineering?' )
-
--->
 
 
 # Conclusions
 
-- Volume: Big data is about the bottlenecks
-- Variety: Metadata driven repositories
+Global change problems are increasingly data driven, bringing new challenges and opportunities:
+
+- Volume: We often hit science bottlenecks before hardware bottlenecks.
+- Variety: We need metadata driven repositories for diverse data.
 - Velocity: Workflows for the data of tomorrow
 
 ---
@@ -591,6 +577,9 @@ Pause, recap the velocity of science issue
 - Matt Jones
 - Marc Mangel
 
+## Links
+
+- [ropensci.org](http://ropensci.org)
 - slides: [io.carlboettiger.info/globalchange](http://cboettig.github.com/globalchange)
 
 ----
