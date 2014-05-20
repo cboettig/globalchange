@@ -55,7 +55,6 @@ Uncertainty in outcomes
 
 <small> credit: NOAA </small>
 
-<h1> Decision Theory </h1>
 
 -----
 
