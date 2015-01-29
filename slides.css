@@ -1,4 +1,4 @@
-@import url("./reveal.js/css/reveal.min.css");
+@import url("./reveal.js/css/reveal.css");
 @import url("./reveal.js/css/theme/serif.css");
 
 .reveal h1 { font-size: 2em; }
