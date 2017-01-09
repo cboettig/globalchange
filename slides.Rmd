@@ -14,7 +14,7 @@ output:
 
 ![](images/dimacs/global-change.jpg)
 
-<small> Overpeck+ (2011) doi:[10.1126/science.1197869](http://doi.org/10.1126/science.1197869) </small>
+<small> Overpeck+ (2011) [doi:10.1126/science.1197869](http://doi.org/10.1126/science.1197869) </small>
 
 <!--
 Uncertainty in outcomes
@@ -26,7 +26,7 @@ Uncertainty in outcomes
 
 ![](images/dimacs/worm2006.png)
 
-<small> Worm+ (2006) doi:[10.1126/science.1132294](http://doi.org/10.1126/science.1132294)</small>
+<small> Worm+ (2006) [doi:10.1126/science.1132294](http://doi.org/10.1126/science.1132294)</small>
 
 
 
@@ -37,7 +37,7 @@ Uncertainty in outcomes
 
 ![](images/berkeley2014/barnosky.png)
 
-<small> Barnoksy+ (2012) doi:[10.1038/nature11018](http://doi.org/10.1038/nature11018)</small>
+<small> Barnoksy+ (2012) [doi:10.1038/nature11018](http://doi.org/10.1038/nature11018)</small>
 
 <!-- From linear to nonlinear thinking. Must deal with the uncertainty-->
 
@@ -104,7 +104,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 ![](images/asn2014/neon.png)
 
-<small> credit: Hopkin (2006) doi:[10.1038/444420a](http://doi.org/10.1038/444420a) </small>
+<small> credit: Hopkin (2006) [doi:10.1038/444420a](http://doi.org/10.1038/444420a) </small>
 
 
 
@@ -112,7 +112,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 ![](images/asn2014/ooi.png)
 
-<small> credit: Witze (2013) doi:[10.1038/501480a](http://doi.org/10.1038/501480a) </small>
+<small> credit: Witze (2013)  [doi:10.1038/501480a](http://doi.org/10.1038/501480a) </small>
 
 ## Computer simulations
 
@@ -139,7 +139,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 ![](images/dimacs/growth-climate-data.png)
 
-<small> Overpeck+ (2011) doi:[10.1126/science.1197869](http://doi.org/10.1126/science.1197869) </small>
+<small> Overpeck+ (2011)  [doi:10.1126/science.1197869](http://doi.org/10.1126/science.1197869) </small>
 
 
 <!--
@@ -150,7 +150,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 - *in 2010 the world generated 1250 billion gigabytes of data.*
 - *in 2007 the world produced more data than could fit in all of the world’s storage*
 
-<small> Baraniuk (2011) doi:[10.1126/science.1197448](http://doi.org/10.1126/science.1197448) </small>
+<small> Baraniuk (2011)  [doi:10.1126/science.1197448](http://doi.org/10.1126/science.1197448) </small>
 
 -->
 
@@ -178,7 +178,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 ![](images/dimacs/bottleneck.jpg)
 
-<small> Baraniuk (2011) doi:[10.1126/science.1197448](http://doi.org/10.1126/science.1197448) </small>
+<small> Baraniuk (2011)  [doi:10.1126/science.1197448](http://doi.org/10.1126/science.1197448) </small>
 
 
 
@@ -186,7 +186,7 @@ In the context of my research... Tipping points, uncertainty and decision theory
 
 ![](images/dimacs/science-bottleneck.png)
 
-<small>adapted from Reichman+ (2011) doi:[10.1126/science.1197962](http://doi.org/10.1126/science.1197962)</small>
+<small>adapted from Reichman+ (2011)  [doi:10.1126/science.1197962](http://doi.org/10.1126/science.1197962)</small>
 
 
 
@@ -210,7 +210,7 @@ Research that _scales_
 
 > today the visualization and analysis component has become a bottleneck
 
-<small> Fox & Hendler (2011) doi:[10.1126/science.1197654](http://doi.org/10.1126/science.1197654) </small>
+<small> Fox & Hendler (2011)  [doi:10.1126/science.1197654](http://doi.org/10.1126/science.1197654) </small>
 
 <!--
 
@@ -229,13 +229,13 @@ Research that _scales_
 
 ![Something is wrong with this picture](images/dimacs/measurement-error.jpg)
 
-<small> Fox & Hendler (2011) doi:[10.1126/science.1197654](http://doi.org/10.1126/science.1197654) </small>
+<small> Fox & Hendler (2011)  [doi:10.1126/science.1197654](http://doi.org/10.1126/science.1197654) </small>
 
 
 
 > Most scientific data is created in a form that facilitates its generation rather than focusing on its eventual use.
 
-<small> Fox & Hendler (2011) doi:[10.1126/science.1197654](http://doi.org/10.1126/science.1197654) </small>
+<small> Fox & Hendler (2011)  [doi:10.1126/science.1197654](http://doi.org/10.1126/science.1197654) </small>
 
 
 
@@ -351,7 +351,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 ![](images/berkeley2014/eml.png)
 
-<small>Jones+ (2006) doi:[10.1146/annurev.ecolsys.37.091305.110031](http://doi.org/10.1146/annurev.ecolsys.37.091305.110031)</small>
+<small>Jones+ (2006)  [doi:10.1146/annurev.ecolsys.37.091305.110031](http://doi.org/10.1146/annurev.ecolsys.37.091305.110031)</small>
 
 
 
@@ -386,7 +386,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 - what model-based climate predictions or projections do well and not so well.
 
 
-<small> Overpeck+ (2011) doi:[10.1126/science.1197869](http://doi.org/10.1126/science.1197869) </small>
+<small> Overpeck+ (2011)  [doi:10.1126/science.1197869](http://doi.org/10.1126/science.1197869) </small>
 
 
 
@@ -427,7 +427,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 ![](images/dimacs/metaknowledge.jpg)
 
 
-<small>Evans+ doi:[10.1126/science.1201765](http://doi.org/10.1126/science.1201765)</small>
+<small>Evans+  [doi:10.1126/science.1201765](http://doi.org/10.1126/science.1201765)</small>
 
 
 
@@ -436,7 +436,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 ![](images/berkeley2014/semantics.png)
 
-<small>Mitchner (2012) doi:[10.1016/j.tree.2011.11.016](http://doi.org/10.1016/j.tree.2011.11.016)</small>
+<small>Mitchner (2012)  [doi:10.1016/j.tree.2011.11.016](http://doi.org/10.1016/j.tree.2011.11.016)</small>
 
 
 
@@ -444,7 +444,7 @@ ggplot(dat, aes(year, catch)) + geom_line() +
 
 > Although research scientists have been the main users of these data, an increasing number of resource managers (working in fields such as water, public lands, health, and marine resources) need and are seeking access to climate data to inform their decisions, just as a growing range of policy-makers rely on climate data to develop climate change strategies
 
-<small> - Overpeck+ (2011) doi:[10.1126/science.1197869](http://doi.org/10.1126/science.1197869) </small>
+<small> - Overpeck+ (2011)  [doi:10.1126/science.1197869](http://doi.org/10.1126/science.1197869) </small>
 
 
 
@@ -505,7 +505,7 @@ How easy would it be to update this to reflect new data?
 
 ![](images/dimacs/science-bottleneck.png)
 
-<small>adapted from Reichman+ (2011) doi:[10.1126/science.1197962](http://doi.org/10.1126/science.1197962)</small>
+<small>adapted from Reichman+ (2011)  [doi:10.1126/science.1197962](http://doi.org/10.1126/science.1197962)</small>
 
 
 
@@ -514,7 +514,7 @@ How easy would it be to update this to reflect new data?
 
 ![](images/berkeley2014/data-workflow.png)
 
-<small>Reichman+ (2011) doi:[10.1126/science.1197962](http://doi.org/10.1126/science.1197962)</small>
+<small>Reichman+ (2011)  [doi:10.1126/science.1197962](http://doi.org/10.1126/science.1197962)</small>
 
 
 
@@ -522,7 +522,7 @@ How easy would it be to update this to reflect new data?
 
 ![](images/dimacs/spectrum.png)
 
-<small>Peng (2011) doi:[10.1126/science.1213847](http://doi.org/10.1126/science.1213847)</small>
+<small>Peng (2011)  [doi:10.1126/science.1213847](http://doi.org/10.1126/science.1213847)</small>
 
 
 
@@ -530,7 +530,7 @@ How easy would it be to update this to reflect new data?
 
 ![](images/dimacs/ipython.png)
 
-<small>Mascarelli (2014) doi:[10.1038/nj7493-523a](http://doi.org/10.1038/nj7493-523a)</small>
+<small>Mascarelli (2014)  [doi:10.1038/nj7493-523a](http://doi.org/10.1038/nj7493-523a)</small>
 
 
 
